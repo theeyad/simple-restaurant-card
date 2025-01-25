@@ -1,0 +1,49 @@
+body {
+    background-color: #ffd230;
+}
+
+.intro {
+    text-align: center;
+}
+
+#res_name {
+    font-family: 'Garbata Trial';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 5rem;
+    src: local('Garbata Trial'), url('https://fonts.cdnfonts.com/s/49722/GarbataTrial-Black.woff') format('woff');
+    padding-top: 20px;
+}
+
+.quote {
+    font-family: cursive;
+    font-size: 20px;
+    padding-top: 0px;
+}
+
+.family_food {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.invite {
+    font-family: cursive;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+.end {
+    display: flex;
+    gap: 80px;
+    font-family: cursive;
+}
+
+.address_details {
+    margin: 0px 0px 0px 500px;
+    padding: 0px;
+}
+
+.phone_details {
+    margin: 0px;
+    padding: 0px;
+}
